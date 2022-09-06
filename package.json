@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "@solana/spl-token": "^0.3.0",
+    "@solana/web3.js": "^1.50.1",
+    "axios": "^0.27.2"
+  }
+}
